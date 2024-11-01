@@ -1,9 +1,9 @@
-import { Button } from "@/components/ui";
+import HomeBanner from "@/components/home/HomeBanner";
 
 export default function Home() {
   return (
     <div>
-      <Button>Hi</Button>
+      <HomeBanner />
     </div>
   );
 }
