@@ -15,7 +15,7 @@ const HomeBanner = () => {
           type="video/mp4"
         />
       </video>
-      <div className="absolute top-24 text-blue-700 flex flex-col items-center w-full">
+      <div className="absolute top-24 text-blue-600 flex flex-col items-center w-full">
         <p className="text-4xl font-bold">Welcome to</p>
         <p className="text-8xl font-bold pt-8">ANCHOR INFORMATICS </p>
       </div>
